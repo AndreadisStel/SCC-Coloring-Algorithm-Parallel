@@ -7,4 +7,4 @@ Focus on performance comparison and scalability across parallel models.
 Developed as part of a parallel computing course.
 
 You can find out more about the algorithm in this [paper](BFS_and_Coloring-Based_Parallel_Algorithms_for_Strongly_Connected_Components_and_Related_Problems.pdf).\
-You can learn more about the task in the [assignment](SCC-Algorithm-Assignment.pdf)
+You can learn more about the task in the [assignment](SCC-Algorithm-Assignment.pdf).
